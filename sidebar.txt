@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[naw:home|Door43 (naw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-naw|d43-naw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-naw/archive/master.zip|d43-naw.zip]]
+
+**Recent Changes**
+{{changes>ns = naw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/naw|Ethnologue data]]
+
